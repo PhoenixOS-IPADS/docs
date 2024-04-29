@@ -1,7 +1,7 @@
 .. _cuda_gsg:
 
-Getting Started Guide for nVIDIA CUDA Platform
-===============================================
+Getting Started Guide for nVIDIA CUDA
+======================================
 
 .. toctree::
     :maxdepth: 2

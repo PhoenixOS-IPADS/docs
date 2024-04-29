@@ -1,7 +1,7 @@
 .. _rocm_gsg:
 
-Getting Started Guide for AMD ROCm Platform
-===========================================
+Getting Started Guide for AMD ROCm
+===================================
 
 .. toctree::
     :maxdepth: 2
