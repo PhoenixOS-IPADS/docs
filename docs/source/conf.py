@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'PhoenixOS'
+copyright = '2023-2024, Institute of Parallel And Distributed Systems (IPADS)'
+author = 'Institute of Parallel And Distributed Systems (IPADS)'
 
 release = '0.1'
 version = '0.1.0'
