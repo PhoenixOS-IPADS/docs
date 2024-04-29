@@ -4,12 +4,10 @@ PhoenixOS Documentation
 Introduction
 ------------
 
-.. figure:: /_static/images/home/pos_logo.png
+.. image:: /_static/images/home/pos_logo.png
    :width: 30%
    :align: center
    :alt: PhoenixOS Logo
-
-   PhoenixOS
 
 PhoenixOS is an OS-level GPU C/R system: It can transparently checkpoint or restore processes that use the GPU.
 
