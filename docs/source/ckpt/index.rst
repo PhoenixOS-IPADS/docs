@@ -8,3 +8,4 @@ Checkpoint Mechanism
     :numbered:
 
     intro
+    validation
