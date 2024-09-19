@@ -1,24 +1,18 @@
 Template for the Read the Docs tutorial
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+Install dependencies:
 
-Read the tutorial here:
+```bash
+pip install sphinx-rtd-theme sphinx-autobuild
+```
 
-https://docs.readthedocs.io/en/stable/tutorial/
+For local debug, run:
 
-Build Locally
-=============
+```bash
+sphinx-autobuild docs/source docs/source/_build/html
+```
 
-.. code-block:: console
+For online deployment:
 
-    # prepare venv
-    conda activate ./env
-    python -m pip install --upgrade --no-cache-dir pip setuptools
-    python -m pip install --upgrade --no-cache-dir sphinx readthedocs-sphinx-ext
-    python -m pip install --exists-action=w --no-cache-dir -r docs/requirements.txt
-
-    # make docs
-    cd docs
-    make html
+https://readthedocs.org/projects/phoenixos/
